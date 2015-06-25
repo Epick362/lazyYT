@@ -1,0 +1,23 @@
+{
+  "name": "lazyYT",
+  "main": "lazyYT.js",
+  "version": "0.3.4",
+  "homepage": "https://github.com/Epick362/lazyYT",
+  "authors": [
+    "tylerpearson"
+  ],
+  "description": "jQuery lazy youtube loading",
+  "keywords": [
+    "youtube",
+    "lazy",
+    "jquery"
+  ],
+  "license": "CC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
