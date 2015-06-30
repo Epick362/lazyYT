@@ -76,7 +76,7 @@
         })
           .html(innerHtml.join(''));
         
-        thumb_img = '0.jpg';
+        thumb_img = 'sddefault.jpg';
         
         $thumb = $el.find('.ytp-thumbnail').css({
             'background-image': ['url(//img.youtube.com/vi/', id, '/', thumb_img, ')'].join('')
